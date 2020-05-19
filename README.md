@@ -1,1 +1,3 @@
-The db labs 3 year 2 sem
+##The db labs 
+###From Cmutov Evgenii KP73
+Variant 20
