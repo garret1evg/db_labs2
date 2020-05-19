@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shop>
+  <product>
+    <description> Trabucco Sirius Creek </description>
+    <price> $0.0000 </price>
+    <image>http://www.fishing-mart.com.ua/2237-home_default/trabucco-sirius-creek.jpg</image>
+  </product>
+  <product>
+    <description> Trabucco Antrax TRT </description>
+    <price> $0.0000 </price>
+    <image>http://www.fishing-mart.com.ua/2233-home_default/trabucco-antrax-trt.jpg</image>
+  </product>
+  <product>
+    <description> Болонское удилище Globe New Hunter </description>
+    <price> $22.1000 </price>
+    <image>http://www.fishing-mart.com.ua/6039-home_default/globe-new-hunter-s-koltsami.jpg</image>
+  </product>
+  <product>
+    <description> Guang Wei Wind Blade Bolo </description>
+    <price> $26.0000 </price>
+    <image>http://www.fishing-mart.com.ua/4386-home_default/gw-wind-blade-bolo.jpg</image>
+  </product>
+  <product>
+    <description> Light Spot Miral Bolo </description>
+    <price> $23.4000 </price>
+    <image>http://www.fishing-mart.com.ua/4387-home_default/light-spot-miral-bolo.jpg</image>
+  </product>
+  <product>
+    <description> Guang Wei Elegance Bolo </description>
+    <price> $8.5000 </price>
+    <image>http://www.fishing-mart.com.ua/4396-home_default/gw-elegance.jpg</image>
+  </product>
+  <product>
+    <description> Guang Wei Vitrification Rod Bolo </description>
+    <price> $12.2000 </price>
+    <image>http://www.fishing-mart.com.ua/4397-home_default/gw-vitrification-rod-bolo.jpg</image>
+  </product>
+  <product>
+    <description> Guang Wei Vitrification Rod Bolo short </description>
+    <price> $8.4500 </price>
+    <image>http://www.fishing-mart.com.ua/4398-home_default/gw-vitrification-rod-bolo-short.jpg</image>
+  </product>
+  <product>
+    <description> Guang Wei Well-Chosen Bolo </description>
+    <price> $10.7000 </price>
+    <image>http://www.fishing-mart.com.ua/4399-home_default/gw-well-chosen-bolo.jpg</image>
+  </product>
+  <product>
+    <description> Siweida Attacker Bolo </description>
+    <price> $15.0000 </price>
+    <image>http://www.fishing-mart.com.ua/4821-home_default/siweida-attacker-bolo.jpg</image>
+  </product>
+  <product>
+    <description> Siweida Tarawa Bolo </description>
+    <price> $18.5000 </price>
+    <image>http://www.fishing-mart.com.ua/4822-home_default/siweida-tarawa-bolo.jpg</image>
+  </product>
+  <product>
+    <description> Удилище болонское RS Fishing Forward Bolo </description>
+    <price> $27.3000 </price>
+    <image>http://www.fishing-mart.com.ua/5555-home_default/rs-fishing-forward-bolo.jpg</image>
+  </product>
+  <product>
+    <description> Удилище болонское BAT Legend Bolognese </description>
+    <price> $17.0000 </price>
+    <image>http://www.fishing-mart.com.ua/6863-home_default/bat-legend-bolognese.jpg</image>
+  </product>
+  <product>
+    <description> Удилище болонское Rich Sport Fishing... </description>
+    <price> $23.0000 </price>
+    <image>http://www.fishing-mart.com.ua/6962-home_default/udilisshe-bolonskoe-rich-sport-fishing-mistral-bolo-sk.jpg</image>
+  </product>
+  <product>
+    <description> Удилище болонское Rich Sport Fishing... </description>
+    <price> $30.0000 </price>
+    <image>http://www.fishing-mart.com.ua/7204-home_default/udilisshe-bolonskoe-rich-sport-fishing-kamchatka.jpg</image>
+  </product>
+</shop>
